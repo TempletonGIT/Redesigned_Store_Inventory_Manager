@@ -1,7 +1,7 @@
 /* Product.java
 ProductFactory
 Author: Zacharia Dipudi (230700659)
-Date: 21 June 2026*/
+Date: 28 June 2026*/
 package za.ac.cput.redesigned_store_inventory_manager.factory;
 
 import za.ac.cput.redesigned_store_inventory_manager.domain.Product;
