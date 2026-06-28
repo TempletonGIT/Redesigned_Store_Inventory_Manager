@@ -11,7 +11,7 @@ public class Product {
     private String productPrice;
 
 
-    private Product(){
+    public Product(){
 
     }
     private Product(Builder builder){
