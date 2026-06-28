@@ -13,6 +13,10 @@ public class Supplier {
     private String supplierName;
     private String contactDetails;
 
+    public Supplier(){
+
+    }
+
     private Supplier(Builder builder) {
         this.supplierId = builder.supplierId;
         this.supplierName = builder.supplierName;
